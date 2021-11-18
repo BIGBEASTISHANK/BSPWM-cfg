@@ -1,0 +1,90 @@
+#
+# Application launcher
+#
+
+# terminal emulator
+super + Return
+	alacritty
+
+# program launcher
+super + shift + Return
+	rofi -show drun -p "Command"
+
+# File manager
+super + e
+	pcmanfm
+
+# open Browser
+super + b
+	opera
+
+# Private Browser
+super + shift + b
+
+# ScreenShot
+Print
+	flameshot gui
+
+#
+# bspwm hotkeys
+#
+
+# quit/restart bspwm
+super + shift + {q,r}
+	bspc {quit,wm -r && pkill -USR1 -x sxhkd}
+
+# close winow
+super + shift + c
+	bspc node -c
+
+# Lock Screen
+super + l
+	betterlockscreen -l blur
+
+# Set window type tiled/floating/fullscreen
+super + {t,s,f}
+    bspc node -t {tiled,floating,fullscreen}
+
+#
+# focus/swap
+#
+
+# focus the node in the given direction
+super + {Left,Down,Up,Right}
+	bspc node -s {west,south,north,east}
+
+# focus the next window in the current desktop
+super + Tab
+	bspc node -f next.local.!hidden.window
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+
+#
+# preselect
+# 
+
+# preselect the direction
+super + shift + {Left,Down,Up,Right}
+	bspc node -p {west,south,north,east}
+
+# preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + Escape
+	bspc node -p cancel
+
+#
+# move/resize
+#
+
+# expand a window by moving one of its side outward
+super + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# contract a window by moving one of its side inward
+super + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
