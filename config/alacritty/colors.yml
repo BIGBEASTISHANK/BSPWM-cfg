@@ -13,7 +13,7 @@ colors:
     yellow:  '#60559D'
     blue:    '#9F6495'
     magenta: '#CB7192'
-    cyan:    '#6398C6'
+    cyan:    '#00ddff'
     white:   '#cdc7d3'
 
   # Bright colors
@@ -24,5 +24,5 @@ colors:
     yellow:  '#60559D'
     blue:    '#9F6495'
     magenta: '#CB7192'
-    cyan:    '#6398C6'
+    cyan:    '#00ddff'
     white:   '#cdc7d3'
