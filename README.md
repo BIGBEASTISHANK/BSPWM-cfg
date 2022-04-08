@@ -1,1 +1,2 @@
-# bspwm-dotfiles-1.0
+# Config
+This is my BSPWM config bros and borines
