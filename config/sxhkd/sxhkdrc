@@ -25,6 +25,10 @@ super + shift + b
 Print
 	flameshot gui
 
+# VSCode
+super + period
+	code
+
 #
 # bspwm hotkeys
 #
@@ -36,10 +40,6 @@ super + shift + {q,r}
 # close winow
 super + shift + c
 	bspc node -c
-
-# Lock Screen
-super + l
-	betterlockscreen -l blur
 
 # Set window type tiled/floating/fullscreen
 super + {t,s,f}
