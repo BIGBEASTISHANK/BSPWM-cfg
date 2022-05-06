@@ -1,0 +1,27 @@
+2022/05/06-19:42:52.712 cef Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/06-19:42:52.712 cef Recovering log #41
+2022/05/06-19:42:52.714 cef Reusing old log /home/ishank/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/000041.log 
+2022/05/06-21:34:25.961 4587 Compacting 1@1 + 1@2 files
+2022/05/06-21:34:26.235 4587 Generated table #44@1: 28 keys, 91949 bytes
+2022/05/06-21:34:26.235 4587 Compacted 1@1 + 1@2 files => 91949 bytes
+2022/05/06-21:34:26.367 4587 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/06-21:34:26.368 4587 Delete type=2 #40
+2022/05/06-21:34:26.368 4587 Delete type=2 #42
+2022/05/06-21:41:43.864 44c9 Level-0 table #46: started
+2022/05/06-21:41:44.179 44c9 Level-0 table #46: 4160259 bytes OK
+2022/05/06-21:41:44.268 44c9 Delete type=0 #41
+2022/05/06-21:45:51.820 4993 Compacting 1@1 + 1@2 files
+2022/05/06-21:45:51.963 4993 Generated table #47@1: 28 keys, 91948 bytes
+2022/05/06-21:45:51.963 4993 Compacted 1@1 + 1@2 files => 91948 bytes
+2022/05/06-21:45:52.039 4993 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/06-21:45:52.040 4993 Delete type=2 #44
+2022/05/06-21:45:52.040 4993 Delete type=2 #46
+2022/05/06-22:00:55.611 5976 Level-0 table #49: started
+2022/05/06-22:00:55.813 5976 Level-0 table #49: 4195865 bytes OK
+2022/05/06-22:00:55.937 5976 Delete type=0 #45
+2022/05/06-22:10:10.356 5f75 Compacting 1@1 + 1@2 files
+2022/05/06-22:10:10.451 5f75 Generated table #50@1: 28 keys, 104496 bytes
+2022/05/06-22:10:10.452 5f75 Compacted 1@1 + 1@2 files => 104496 bytes
+2022/05/06-22:10:10.577 5f75 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/06-22:10:10.578 5f75 Delete type=2 #47
+2022/05/06-22:10:10.578 5f75 Delete type=2 #49

@@ -1,0 +1,62 @@
+2022/05/05-19:58:05.360 2e8e Creating DB /home/ishank/.config/opera/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/05/05-19:58:05.515 2e8e Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/05-19:58:33.570 3232 Level-0 table #5: started
+2022/05/05-19:58:33.740 3232 Level-0 table #5: 1139408 bytes OK
+2022/05/05-19:58:33.889 3232 Delete type=0 #3
+2022/05/05-20:00:56.847 3250 Level-0 table #7: started
+2022/05/05-20:00:56.960 3250 Level-0 table #7: 1024794 bytes OK
+2022/05/05-20:00:57.082 3250 Delete type=0 #4
+2022/05/05-20:01:04.912 3250 Compacting 1@1 + 1@2 files
+2022/05/05-20:01:05.097 3250 Generated table #8@1: 24389 keys, 1171269 bytes
+2022/05/05-20:01:05.097 3250 Compacted 1@1 + 1@2 files => 1171269 bytes
+2022/05/05-20:01:05.162 3250 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-20:01:05.163 3250 Delete type=2 #5
+2022/05/05-20:01:05.163 3250 Delete type=2 #7
+2022/05/05-20:21:58.624 3560 Level-0 table #10: started
+2022/05/05-20:21:58.791 3560 Level-0 table #10: 1028389 bytes OK
+2022/05/05-20:21:58.864 3560 Delete type=0 #6
+2022/05/05-20:23:00.245 35d7 Compacting 1@1 + 1@2 files
+2022/05/05-20:23:00.455 35d7 Generated table #11@1: 27448 keys, 1397721 bytes
+2022/05/05-20:23:00.455 35d7 Compacted 1@1 + 1@2 files => 1397721 bytes
+2022/05/05-20:23:00.560 35d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-20:23:00.560 35d7 Delete type=2 #8
+2022/05/05-20:23:00.561 35d7 Delete type=2 #10
+2022/05/05-20:58:34.574 42e6 Level-0 table #13: started
+2022/05/05-20:58:34.779 42e6 Level-0 table #13: 932625 bytes OK
+2022/05/05-20:58:34.828 42e6 Delete type=0 #9
+2022/05/05-21:00:44.568 44a0 Compacting 1@1 + 1@2 files
+2022/05/05-21:00:44.760 44a0 Generated table #14@1: 32852 keys, 1627297 bytes
+2022/05/05-21:00:44.760 44a0 Compacted 1@1 + 1@2 files => 1627297 bytes
+2022/05/05-21:00:44.836 44a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-21:00:44.837 44a0 Delete type=2 #11
+2022/05/05-21:00:44.837 44a0 Delete type=2 #13
+2022/05/05-21:50:37.293 5587 Level-0 table #16: started
+2022/05/05-21:50:37.461 5587 Level-0 table #16: 1353718 bytes OK
+2022/05/05-21:50:37.637 5587 Delete type=0 #12
+2022/05/05-21:50:38.039 489e Compacting 1@1 + 1@2 files
+2022/05/05-21:50:38.172 489e Generated table #17@1: 36818 keys, 1817362 bytes
+2022/05/05-21:50:38.172 489e Compacted 1@1 + 1@2 files => 1817362 bytes
+2022/05/05-21:50:38.248 489e compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-21:50:38.249 489e Delete type=2 #14
+2022/05/05-21:50:38.249 489e Delete type=2 #16
+2022/05/05-21:59:58.574 5811 Level-0 table #19: started
+2022/05/05-21:59:58.709 5811 Level-0 table #19: 1315352 bytes OK
+2022/05/05-21:59:58.820 5811 Delete type=0 #15
+2022/05/05-22:00:08.575 582b Compacting 1@1 + 1@2 files
+2022/05/05-22:00:08.749 582b Generated table #20@1: 40417 keys, 2070315 bytes
+2022/05/05-22:00:08.749 582b Compacted 1@1 + 1@2 files => 2070315 bytes
+2022/05/05-22:00:08.890 582b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-22:00:08.891 582b Delete type=2 #17
+2022/05/05-22:00:08.891 582b Delete type=2 #19
+2022/05/05-22:11:54.290 556a Level-0 table #22: started
+2022/05/05-22:11:54.589 556a Level-0 table #22: 574471 bytes OK
+2022/05/05-22:11:54.722 556a Delete type=0 #18
+2022/05/05-22:11:54.722 556a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/05-22:11:54.723 556a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x02\x1f\x03\x00\xe0\x17\x83P\x09xB\x00\x016\x00C\x00o\x00J\x00B\x00L\x00C\x00W\x00O\x00c\x00u\x00K\x00h\x00i\x00t\x00q\x00o\x00g\x00o\x00Z\x00u\x00G\x00P\x00d\x00A\x00T\x00+\x00Y\x00+\x00J\x00c\x00v\x00Z\x00v\x00D\x00L\x005\x00j\x00Z\x00v\x00g\x00q\x00B\x000\x00=\x00-\x001\x00-\x00s\x00e\x00c\x00o\x00n\x00d\x00s' @ 215656 : 0
+2022/05/05-22:11:54.723 556a Compacting 1@1 + 1@2 files
+2022/05/05-22:11:54.832 556a Generated table #23@1: 33816 keys, 1734024 bytes
+2022/05/05-22:11:54.833 556a Compacted 1@1 + 1@2 files => 1734024 bytes
+2022/05/05-22:11:54.897 556a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-22:11:54.898 556a Delete type=2 #20
+2022/05/05-22:11:54.898 556a Delete type=2 #22
+2022/05/05-22:11:54.899 556a Manual compaction at level-1 from '\x00\x0a\x02\x1f\x03\x00\xe0\x17\x83P\x09xB\x00\x016\x00C\x00o\x00J\x00B\x00L\x00C\x00W\x00O\x00c\x00u\x00K\x00h\x00i\x00t\x00q\x00o\x00g\x00o\x00Z\x00u\x00G\x00P\x00d\x00A\x00T\x00+\x00Y\x00+\x00J\x00c\x00v\x00Z\x00v\x00D\x00L\x005\x00j\x00Z\x00v\x00g\x00q\x00B\x000\x00=\x00-\x001\x00-\x00s\x00e\x00c\x00o\x00n\x00d\x00s' @ 215656 : 0 .. (end); will stop at (end)

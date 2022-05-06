@@ -13,6 +13,9 @@ picom &
 ## Network Manager
 nm-applet &
 
+## Bluetooth Applet
+blueman-applet &
+
 ## ScreenShot
 flameshot &
 

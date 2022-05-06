@@ -1,0 +1,9 @@
+2022/04/29-01:10:37.861 3a5 Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/29-01:10:37.872 3a5 Recovering log #11
+2022/04/29-01:10:38.135 3a5 Reusing old log /home/ishank/.config/opera/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000011.log 
+2022/04/29-01:11:31.891 3d2 Compacting 1@1 + 1@2 files
+2022/04/29-01:11:31.932 3d2 Generated table #14@1: 61 keys, 20434 bytes
+2022/04/29-01:11:31.932 3d2 Compacted 1@1 + 1@2 files => 20434 bytes
+2022/04/29-01:11:31.997 3d2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/29-01:11:31.998 3d2 Delete type=2 #9
+2022/04/29-01:11:31.998 3d2 Delete type=2 #12

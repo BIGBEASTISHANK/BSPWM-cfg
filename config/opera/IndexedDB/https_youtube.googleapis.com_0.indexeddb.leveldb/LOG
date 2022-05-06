@@ -1,0 +1,19 @@
+2022/05/05-23:49:57.048 8cc2 Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/05-23:49:57.048 8cc2 Recovering log #3
+2022/05/05-23:49:57.083 8cc2 Reusing old log /home/ishank/.config/opera/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/000003.log 
+2022/05/05-23:49:57.336 8cc2 Level-0 table #5: started
+2022/05/05-23:49:57.478 8cc2 Level-0 table #5: 9565 bytes OK
+2022/05/05-23:49:57.580 8cc2 Delete type=0 #3
+2022/05/05-23:49:57.580 8cc2 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/05-23:49:59.469 9def Level-0 table #7: started
+2022/05/05-23:49:59.545 9def Level-0 table #7: 237 bytes OK
+2022/05/05-23:49:59.700 9def Delete type=0 #4
+2022/05/05-23:49:59.700 9def Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/05-23:49:59.700 9def Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 247 : 0
+2022/05/05-23:49:59.700 9def Compacting 1@1 + 1@2 files
+2022/05/05-23:49:59.798 9def Generated table #8@1: 21 keys, 740 bytes
+2022/05/05-23:49:59.799 9def Compacted 1@1 + 1@2 files => 740 bytes
+2022/05/05-23:49:59.952 9def compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/05-23:49:59.953 9def Delete type=2 #5
+2022/05/05-23:49:59.953 9def Delete type=2 #7
+2022/05/05-23:49:59.953 9def Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 247 : 0 .. (end); will stop at (end)
