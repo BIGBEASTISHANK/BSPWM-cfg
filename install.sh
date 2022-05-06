@@ -8,9 +8,12 @@ paru -S blueman visual-studio-code-bin flameshot
 paru -S sddm-sugar-candy-git gvfs gvfs-gphotos2
 paru -S pcmanfm qt5ct kvantum sddm grub-customizer
 paru -R lightdm lightdm-gtk-greeter
-systemctl disable lightdn
+systemctl disable lightdm
 systemctl enable sddm
 systemctl enable bluetooth
+git config --global user.email "pranjal3211p@gmail.com"
+git config --global user.name "BIGBEASTiSHANK"
+ssh-keygen
 sudo mkdir /usr/share/fonts/TTF/
 sudo cp ./fonts/* /usr/share/fonts/TTF
 sudo cp ./sddm/sddm.conf /etc/
