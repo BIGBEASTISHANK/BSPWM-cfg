@@ -1,6 +1,0 @@
-2022/04/29-01:10:22.266 3d3 Reusing MANIFEST /home/ishank/.config/opera/Sync Data/LevelDB/MANIFEST-000001
-2022/04/29-01:10:22.767 3d3 Recovering log #99
-2022/04/29-01:10:23.227 3d3 Reusing old log /home/ishank/.config/opera/Sync Data/LevelDB/000099.log 
-2022/04/29-01:11:30.505 3d4 Level-0 table #103: started
-2022/04/29-01:11:30.557 3d4 Level-0 table #103: 77910 bytes OK
-2022/04/29-01:11:30.624 3d4 Delete type=0 #99

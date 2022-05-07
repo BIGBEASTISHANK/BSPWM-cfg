@@ -1,6 +1,0 @@
-2022/05/05-19:05:14.820 a7e Creating DB /home/ishank/.config/opera/IndexedDB/https_www.gearbest.com_0.indexeddb.leveldb since it was missing.
-2022/05/05-19:05:15.174 a7e Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/https_www.gearbest.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/05-19:06:44.526 a7e Level-0 table #5: started
-2022/05/05-19:06:44.591 a7e Level-0 table #5: 20594 bytes OK
-2022/05/05-19:06:44.679 a7e Delete type=0 #3
-2022/05/05-19:06:44.680 a7e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

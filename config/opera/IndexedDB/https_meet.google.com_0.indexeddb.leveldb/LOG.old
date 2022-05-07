@@ -1,6 +1,0 @@
-2022/05/04-22:53:17.100 6091 Creating DB /home/ishank/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
-2022/05/04-22:53:17.316 6091 Reusing MANIFEST /home/ishank/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/04-22:53:50.389 6e00 Level-0 table #5: started
-2022/05/04-22:53:50.464 6e00 Level-0 table #5: 2999 bytes OK
-2022/05/04-22:53:50.552 6e00 Delete type=0 #3
-2022/05/04-22:53:50.552 6e00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

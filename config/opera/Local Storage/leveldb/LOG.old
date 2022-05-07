@@ -1,6 +1,0 @@
-2022/04/29-01:10:21.794 3 Reusing MANIFEST /home/ishank/.config/opera/Local Storage/leveldb/MANIFEST-000001
-2022/04/29-01:10:22.367 3 Recovering log #79
-2022/04/29-01:10:22.767 3 Reusing old log /home/ishank/.config/opera/Local Storage/leveldb/000079.log 
-2022/05/06-19:39:47.673 8 Level-0 table #83: started
-2022/05/06-19:39:47.814 8 Level-0 table #83: 14176 bytes OK
-2022/05/06-19:39:47.893 8 Delete type=0 #79
