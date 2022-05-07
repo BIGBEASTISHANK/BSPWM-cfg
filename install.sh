@@ -4,8 +4,8 @@ paru -S alacritty fish lolcat ark wget
 paru -S pulseaudio pulseaudio-bluetooth
 paru -S sweet-kde-theme-git sweet-kvantum-theme-git sweet-gtk-theme-dark
 paru -S ttf-iosevka-nerd noto-fonts noto-fonts-emoji-apple
-paru -S blueman visual-studio-code-bin flameshot
-paru -S sddm-sugar-candy-git gvfs gvfs-gphotos2
+paru -S blueman visual-studio-code-bin flameshot beautyline
+paru -S sddm-sugar-candy-git gvfs gvfs-gphoto2
 paru -S pcmanfm qt5ct kvantum sddm grub-customizer
 paru -R lightdm lightdm-gtk-greeter
 systemctl disable lightdm
